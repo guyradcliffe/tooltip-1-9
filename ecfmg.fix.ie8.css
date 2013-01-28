@@ -1,0 +1,104 @@
+/********************** GENERAL STYLES ************************/
+.spacingIMED {margin-top:7px;}
+.spacingResidency {margin-top:8px;}
+
+/******************* ROTATOR STYLES ********************/
+div.slides {height:432px;}
+div.slides div {height:438px;}
+
+/********************** Home page rotation images ********************/
+div.grid_980 div.grid_960 div.grid_640 div.center_640 div#s10 img.notvisible {display:none; z-index:5;}
+div.grid_980 div.grid_960 div.grid_640 div.center_640 div#s10 img.visible {display:block; z-index:6;}
+
+/***************** GRID 660 STYLES **************/
+div.grid_980 div.grid_660 {margin-right:10px;}
+div.grid_980 div.grid_660 div.div_660 {margin:0 0 0 14px; padding-right:8px;}
+div.grid_980 div.grid_660 div.div_660 h4 a {color:#006699; text-decoration:none;}
+div.grid_980 div.grid_660 div.div_660 h4 a:hover {color:#8dbcdf;}
+
+div.grid_980 div.grid_960 div.grid_310 img {margin:-3px 0 0 0;}/* -5px 0 0  */
+div.grid_980 div.grid_960 div.grid_310 a {text-decoration:none;}
+div.grid_980 div.grid_960 div.grid_310 a img {margin:-3px 0 0 0;}
+
+div.grid_980 div.grid_310 div.online-center_310 div.listdivider div.text ul li.indentroom {text-indent:17px;}
+
+/******************* bottom div Initiatives Right Column ***********/
+div.grid_980 div.grid_960 div.grid_310 div.button-initiatives {display:block; width:310px; height:142px; margin:0; background:url(../images/right.initiatives.310-ie8.jpg) 0 0; margin:-4px 0 0 0;}
+div.grid_980 div.grid_960 div.grid_310 div.center_310_home img.button_bottom {margin:0 5px -2px 5px;}/* bottom button needs a negative margin-bottom for some reason??? */
+div.footer960 {margin:-5px 0 0 0px;}
+
+/************** HEADER GRID FOR TOOLTIPS ****************/
+div.grid_183 {margin-top:18px;}
+
+/****************** About Tooltips Styles ****************/
+div.ttAbout div.tooltipmenu div.thirty-three a div.aboutoverview h5 {text-decoration:underline;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.aboutoverview h5:hover {text-decoration:none;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.svmpecfmg h5.svmp {text-decoration:underline;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.svmpecfmg h5.svmp:hover {text-decoration:none;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.organizational h5 {text-decoration:underline;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.organizational h5:hover {text-decoration:none;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.trustees h5 {text-decoration:underline;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.trustees h5:hover {text-decoration:none;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.seniorstaff h5 {text-decoration:underline;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.seniorstaff h5:hover {text-decoration:none;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.initiatives h5 {text-decoration:underline;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.initiatives h5:hover {text-decoration:none;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.aboutannualreport h5 {text-decoration:underline;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.aboutannualreport h5:hover {text-decoration:none;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.history h5 {text-decoration:underline;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.history h5:hover {text-decoration:none;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.careers h5 {text-decoration:underline;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.careers h5:hover {text-decoration:none;}
+
+/************* PROGRAMS TOOLTIP STYLES ************/
+div.ttPrograms div.tooltipmenu a div.programsoverview {margin:-2px 0 0 0;}
+div.ttPrograms div.tooltipmenu a div.programsoverview h5.header {text-decoration:underline;}
+div.ttPrograms div.tooltipmenu a div.programsoverview h5.header:hover {text-decoration:none;}
+div.ttPrograms div.tooltipmenu a div.certification h5.header {text-decoration:underline;}
+div.ttPrograms div.tooltipmenu a div.certification h5.header:hover {text-decoration:none;}
+div.ttPrograms div.tooltipmenu a div.cvs h5.header {text-decoration:underline;}
+div.ttPrograms div.tooltipmenu a div.cvs h5.header:hover {text-decoration:none;}
+div.ttPrograms div.tooltipmenu a div.evsp h5.header {text-decoration:underline;}
+div.ttPrograms div.tooltipmenu a div.evsp h5.header:hover {text-decoration:none;}
+div.ttPrograms div.tooltipmenu a div.eics h5.header {text-decoration:underline;}
+div.ttPrograms div.tooltipmenu a div.eics h5.header:hover {text-decoration:none;}
+div.ttPrograms div.tooltipmenu a div.echo h5.header {text-decoration:underline;}
+div.ttPrograms div.tooltipmenu a div.echo h5.header:hover {text-decoration:none;}
+div.ttPrograms div.tooltipmenu a div.usmle h5.header {text-decoration:underline;}
+div.ttPrograms div.tooltipmenu a div.usmle h5.header:hover {text-decoration:none;}
+div.ttPrograms div.tooltipmenu a div.eras h5.header {text-decoration:underline;}
+div.ttPrograms div.tooltipmenu a div.eras h5.header:hover {text-decoration:none;}
+
+/************ On-Line Services Tooltips **************/
+div.ttOnlineservices div.tooltipmenu a div.iwa h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.iwa h5.header:hover {text-decoration:none;}
+div.ttOnlineservices div.tooltipmenu a div.oasis h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.oasis h5.header:hover {text-decoration:none;}
+div.ttOnlineservices div.tooltipmenu a div.step2cs h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.step2cs h5.header:hover {text-decoration:none;}
+div.ttOnlineservices div.tooltipmenu a div.ian h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.ian h5.header:hover {text-decoration:none;}
+div.ttOnlineservices div.tooltipmenu a div.cvsonlineL h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.cvsonlineL h5.header:hover {text-decoration:none;}
+div.ttOnlineservices div.tooltipmenu a div.emswp h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.emswp h5.header:hover {text-decoration:none;}
+div.ttOnlineservices div.tooltipmenu a div.evn h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.evn h5.header:hover {text-decoration:none;}
+div.ttOnlineservices div.tooltipmenu a div.cvsonline h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.cvsonline h5.header:hover {text-decoration:none;}
+div.ttOnlineservices div.tooltipmenu a div.employment h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.employment h5.header:hover {text-decoration:none;}
+div.ttOnlineservices div.tooltipmenu a div.overview h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.overview h5.header:hover {text-decoration:none;}
+div.ttOnlineservices div.tooltipmenu a div.imed h5.header {text-decoration:underline;}
+div.ttOnlineservices div.tooltipmenu a div.imed h5.header:hover {text-decoration:none;}
+
+/**************  Resources Tooltips **************/
+div.ttResources div.tooltipmenu a div.six h5.header {text-decoration:underline;}
+div.ttResources div.tooltipmenu a div.six h5.header:hover {text-decoration:none;}
+div.ttResources div.tooltipmenu a div.behavior h5.header {text-decoration:underline;}
+div.ttResources div.tooltipmenu a div.behavior h5.header:hover {text-decoration:none;}
+div.ttResources div.tooltipmenu a div.roverview h5.header {text-decoration:underline;}
+div.ttResources div.tooltipmenu a div.roverview h5.header:hover {text-decoration:none;}
+div.ttResources div.tooltipmenu div.data a div.imagelink h5 {text-decoration:underline;}
+div.ttResources div.tooltipmenu div.data a div.imagelink h5:hover {text-decoration:none;}
